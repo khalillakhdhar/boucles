@@ -16,6 +16,7 @@ public class Test {
 cars.add("bmw");
 cars.add("Audi");
 cars.add("fiat");
+
 for(String car : cars)
 {
 	System.out.println(car);
